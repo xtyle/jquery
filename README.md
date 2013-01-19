@@ -1,4 +1,4 @@
 jquery
 ======
 
-JQuery for xtyle web framework
+JQuery with xtyle
